@@ -1,0 +1,17 @@
+Default Sequence 3
+Teardrop,Teardrop.wav
+270 Deg Rolling Turn,270RollingTurn.wav
+Laydown Hupty Bump,LaydownHuptyB.wav
+Inside Outside Loop,InsideOutLoop.wav
+Double Humpty Bump, 2xHumptyBump.wav
+Reversing Loop Combo, RevLoopCombo.wav
+Down Cuban, DownCuban.wav
+Down Sharkstooth, DownSharksTooth.wav
+Immelmann,Immelmann.wav
+Hammerhead, Hammerhead.wav
+Vertical Upline, VerticalUpline.wav
+Spin, Spin.wav
+90 degree rolling turn, 90RollingTurn.wav
+Split S, SplitS.wav
+** END **,end.wav
+
